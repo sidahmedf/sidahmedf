@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sid Ahmed | Étudiant & Développeur</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Alfa Slab One font -->
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+      
+    <!-- Inter font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet"> 
+
+    <!-- Font Awesome icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+      crossorigin="anonymous"
+    />
+    <link rel="icon" href="/img/favicon.png" type="image/png">
+
+    <!-- Animation library styles -->    
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+    <!-- Iconify Icons -->
+    <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+    
+    <link rel="stylesheet" href="css/main.css" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EBYB5MK388"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-EBYB5MK388');
+    </script>
+  </head>
+  <body>
+    <!-- HEADER -->
+    <header id="header">
+      <div id="particles-js">
+        <nav id="nav" data-aos="fade-in">
+          <div class="container nav-container">
+            <a href="index.html" id="logo">
+              <img src="img/sidahmed2.png" alt="logo" style="width: 50%; height: auto;">
+            </a>
+            <ul class="hide-for-mobile nav-links flex">
+              <li>
+                <a href="#projects" class="link"
+                  ><i class="fas fa-code"></i> Projets</a
+                >
+              </li>
+              <li>
+                <a href="#skills" class="link"
+                  ><i class="fas fa-tools"></i> Compétences</a
+                >
+              </li>
+              <li>
+                <a href="#education" class="link"><i class="fas fa-user-graduate"></i> Formation</a
+                >
+              </li>
+              <li>
+                <a href="https://drive.google.com/file/d/125h4_jp6FcZRkx8oK9CBbeRTGML6s5D6/view?usp=sharing" class="link"
+                  target="_blank"><i class="fas fa-file"></i> Mon CV</a
+                >
+              </li> 
+              <li>
+                <a href="#contact" class="link"
+                  ><i class="fas fa-envelope"></i> Contact</a
+                >
+              </li>
+            </ul>
+          </div>
+  
+          <div class="mobile-menu hide-for-desktop">
+            <div class="container">
+              <div class="mobile-menu-links">
+                <ul class="flex">
+                  <li>
+                    <a href="#projects" class="link blue-hover"
+                      >Projects</a
+                    >
+                  </li>
+                  <li>
+                    <a href="#skills" class="link blue-hover"
+                      >Skills</a
+                    >
+                  </li>
+                  <li>
+                    <a href="#education" class="link blue-hover"
+                      >Education</a
+                    >
+                  </li>
+                  <li>
+                    <a href="https://drive.google.com/file/d/125h4_jp6FcZRkx8oK9CBbeRTGML6s5D6/view?usp=sharing" class="link blue-hover" target="_blank"
+                      >Resume</a
+                    >
+                  </li> 
+                  <li>
+                    <a href="#contact" class="link blue-hover"
+                      >Contact</a
+                    >
+                  </li>
+                </ul>
+              </div>
+            </div>
+              
+            </div>
+          </div>
+        </nav>
+
+        <!-- HERO -->
+        <div class="hero">
+          <div data-aos="fade-up">
+            <h1 class="h1">
+              <br>
+              <br>
+              <!-- <span class="typed-text"></span><span class="cursor">&nbsp;</span> -->
+              Bonjour, moi c'est <span class="main-font text-blue">Sid Ahmed</span>
+            </h1>
+            <p class="student" id="student">
+              Actuellement étudiant en troisième année de Licence d’Informatique à l’<a href="https://www.univ-lille.fr/" class="blue-link-underline" target="_blank">Université de Lille</a>, j’effectue un stage en développement au sein du laboratoire <a href="https://pics-l.univ-gustave-eiffel.fr/" class="blue-link-underline" target="_blank">@PICS-L</a>. Je prépare une candidature en Master et suis à la recherche d’une alternance pour la rentrée prochaine.            </p>
+            <div class="hero-btns">
+              <a href="#projects" class="btn-blue"><i class="fas fa-code"></i> Projects</a>
+              <a href="https://github.com/sidahmedf" class="btn-blue-outline mx-1" id="projects-btn"
+                target="_blank"><i class="fab fa-github"></i> Github</a
+              >
+            </div>
+          </div>
+        </div>
+        
+        <!-- SOCIAL LINKS
+        <div class="socials" data-aos="fade-in"> 
+          <ul>
+            <li class="bg-blue"><a href="https://www.linkedin.com/in/ben-rogers-a3b013140/"
+              target="_blank"><span class="socials-text">LinkedIn</span> <i class="fab fa-linkedin fa-2x"></i
+            ></a></li>
+            <li class="bg-dark-grey"> <a href="https://github.com/ben04rogers"
+              target="_blank"><span class="socials-text">GitHub</span><i class="fab fa-github fa-2x"></i
+            ></a></li>
+            <li class="bg-white"><a class="text-dark-grey" href="mailto:benrogers1299@outlook.com"><span class="socials-text">Email</span><i class="fas fa-envelope fa-2x"></i></a></li>
+          </ul>
+        </div>
+      </div> -->
+
+      <!-- <div class="scroll-btn-container">
+        <div>
+          <a href="#projects" id="scroll-btn-header"><span></span><span></span><span></span></a>
+        </div>
+      </div> -->
+
+
+      <div class="seperator-skew">
+        <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+          <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
+        </svg>
+      </div>
+
+    </header>
+
+    <!-- PROJECTS -->
+    <section id="projects" class="projects">
+      <div class="container">
+        <h2 class="main-font">Mes<span class="text-blue main-font"> Projets</span></h2>
+        <div class="project-row" data-aos="fade-up">
+          <div class="project-left">
+            <img src="img/cryptocrowd2.png" alt="">
+          </div>
+          <div class="project-right">
+            <h3>CryptoCrowd Sentiment Analysis</h3>
+            <ul class="tech-stack-list">
+              <p class="text-grey"><b>Made with: </b></p>
+              <li><span class="iconify" data-icon="logos:aws" data-inline="false"></span></li>
+              <li><span class="iconify" data-icon="logos:javascript" data-inline="false"></span></li>
+              <li><span class="iconify" data-icon="logos:react" data-inline="false"></span></span></li>
+              <li><span class="iconify" data-icon="logos:bootstrap" data-inline="false"></span></li>
+              <li><span class="iconify" data-icon="logos:nodejs" data-inline="false"></span></li>
+              <li><span class="iconify" data-icon="logos:express" data-inline="false"></span></li>
+            </ul>
+            <p>Cryptocurrency sentiment analysis on Twitter posts. Users can see the overall sentiment (positive, negative or neutral) of different Cryptocurrencies based on tweets. Users can also view keywords and an average sentiment score. React frontend and Node.js backend. Stateless application that uses Elasticache and S3 on AWS for persistence. Application was setup with an autoscaling group to scale in and out as needed.</p>
+            <div class="project-links">
+              <a href="https://laravel-job-tracker.herokuapp.com/" class="btn-blue btn-small" target="_blank"> <i class="fas fa-external-link-alt"></i
+                > Live</a>
+              <a href="https://www.youtube.com/watch?v=uhyC0M4WIl4" class="btn-blue btn-small hover-bg-light" target="_blank"> <i class="fab fa-youtube"></i> Demo</a>
+              <a href="https://github.com/ben04rogers/cab432-assignment-2" class="btn-blue-outline btn-small mx-1" target="_blank"> <i class="fab fa-github"></i
+                > Code</a>
+            </div>
+          </div>
+        </div>
+
+      </section>
+    
+     <!-- SKILLS -->
+    <section id="skills" class="skills">
+      <div class="seperator-skew-top">
+        <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+          <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
+        </svg>
+      </div>
+      <div class="container" data-aos="fade-in"> 
+        <h2 class="text-white main-font">Mes <span class="text-blue main-font">Compétences</span></h2>
+        <ul class="skills-icons">
+          
+          <li><span class="iconify" data-icon="logos:python" data-inline="false" data-width="90px" data-height="90px"></span><span>Python</span></li>
+          <li><span class="iconify" data-icon="logos:java" data-inline="false" data-width="90px" data-height="90px"></span><span>Java</span></li>
+          <li><span class="iconify" data-icon="logos:c" data-inline="false" data-width="90px" data-height="90px"></span><span class="text-center">C</span></li>       
+          <li><span class="iconify" data-icon="logos:c-sharp" data-inline="false" data-width="90px" data-height="90px"></span><span>c#</span></li>
+          <li><span class="iconify" data-icon="logos:unity" data-inline="false" data-width="90px" data-height="90px"></span><span class="text-center">Unity</span></li>       
+          <li><span class="iconify" data-icon="logos:javascript" data-inline="false" data-width="90px" data-height="90px"></span><span>JavaScript</span></li>
+          <li><span class="iconify" data-icon="logos:php" data-inline="false" data-width="90px" data-height="90px"></span><span>PHP</span></li>
+          <li><span class="iconify" data-icon="logos:haskell" data-inline="false" data-width="90px" data-height="90px"></span><span>Haskell</span></li>
+          <li><span class="iconify" data-icon="vscode-icons:file-type-html" data-inline="false" data-width="90px" data-height="90px"></span><span>HTML</span></li>
+          <li><span class="iconify" data-icon="vscode-icons:file-type-css" data-inline="false" data-width="90px" data-height="90px"></span><span>CSS</span></li>
+          <li><span class="iconify" data-icon="logos:git-icon" data-inline="false" data-width="90px" data-height="90px"></span><span>Git</span></li>
+          <li><span class="iconify" data-icon="logos:bootstrap" data-inline="false" data-width="90px" data-height="90px"></span><span>Bootstrap</span></li>
+          <li><span class="iconify" data-icon="logos:mysql" data-inline="false" data-width="90px" data-height="90px"></span><span>MySQL</span></li>
+          <li><span class="iconify" data-icon="flat-color-icons:linux" data-inline="false" data-width="90px" data-height="90px"></span><span>Linux</span></li>
+          <li><span class="iconify" data-icon="logos:flask" data-inline="false" data-width="90px" data-height="90px"></span><span>Flask</span></li>
+          <li><span class="iconify" data-icon="logos:selenium" data-inline="false" data-width="90px" data-height="90px"></span><span>Selenium</span></li>          
+          <!--<li><span class="iconify" data-icon="logos:shopify" data-inline="false" data-width="90px" data-height="90px"></span><span>Shopify</span></li>  -->        
+         <!-- <li><span class="iconify aws-logo" data-icon="logos:aws" data-inline="false" data-width="90px" data-height="90px"></span><span class="text-center">Amazon Web <br> Services</span></li>  -->
+        </ul>
+      </div>
+
+      <div class="seperator-skew-bottom">
+        <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+          <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
+        </svg>
+      </div>
+    </section>
+
+     <!-- Education -->
+     <section id="education" class="education">
+      <div class="container">
+        <h2 class="main-font" data-aos="fade-in">Ma <span class="text-blue main-font">Formation</span></h2>
+
+        <div class="education-card" data-aos="zoom-in">
+            <div class="education-card-column">
+              <div class="card-column-image">
+                <img src="img/lille.png" alt="khra">
+              </div>
+
+              <div class="card-column-large">
+                <h4 class="education-year">2022–2025</h4>
+                <h4>Université de Lille – Licence Informatique</h4>
+                <p>Formation généraliste préparant à un master en informatique.</p>
+                <ul>
+                  <li>Paradigmes de programmation : impératif, fonctionnel, orienté objet</li>
+                  <li>Mathématiques discrètes et algorithmique</li>
+                  <li>Systèmes, réseaux, bases de données</li>
+                  <li>Anglais et communication</li>
+                </ul>
+              </div>
+              
+  <!-- CONTACT -->
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="contact">
+      <div class="container">
+        <h2 class="section-title main-font" data-aos="fade-in">Me <span class="text-blue main-font">Contacter</span></h2>
+        <div class="card-container">
+          <div class="card" data-aos="fade-in">
+            <i class="fas fa-envelope"></i>
+            <h3>Email</h3>
+            <a href="mailto:sidahmed.ferroudj.etu@univ-lille.fr" class="mailto-button" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; border-radius: 5px; text-decoration: none;">@malito</a>
+          </div>
+          <div class="card" data-aos="fade-in" data-aos-delay="100">
+            <i class="fab fa-github"></i
+              >
+            <h3>GitHub</h3>
+            <a href="github.com/sidahmedf" class="text-blue" target="_blank">sidahmedf</a>
+          </div>
+          <div class="card" data-aos="fade-in" data-aos-delay="200">
+            <i class="fab fa-linkedin"></i>
+            <h3>LinkedIn</h3>
+            <a href="www.linkedin.com/in/sidahmed-ferroudj" class="text-blue" target="_blank">sidahmed-ferroudj</a>
+          </div>
+        </div>
+        
+      </div>
+    </section>
+
+    <footer class="footer">
+      
+    </footer>
+
+    <!-- Back to top button in corner -->
+    <a id="backToTopBtn" class="btn-blue">
+      <i class="fa fa-chevron-up"></i>
+    </a>
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Particles.js for hero section -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js" integrity="sha512-Kef5sc7gfTacR7TZKelcrRs15ipf7+t+n7Zh6mKNJbmW+/RRdCW9nwfLn4YX0s2nO6Kv5Y2ChqgIakaC6PW09A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- GSAP animations -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js"></script>
+
+    <script>
+      particlesJS.load('particles-js', './particles.json', function(){
+        console.log("particles.josn loaded...")
+      })
+    </script>
+
+    <script defer src="js/app.js"></script>
+
+    <!-- AOS Animations -->
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+
+  </body>
+</html>
