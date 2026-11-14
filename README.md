@@ -19,4 +19,4 @@ Curieux et rigoureux, j'aime concevoir des applications fiables et bien structur
 
 ---
 
-📫 **Contact :** [LinkedIn](https://www.linkedin.com/in/sidahmed-ferroudj) · sidahmed.ferroudj.etu@univ-lille.fr · +33 7 58 38 92 74 · Lille, France (mobile)[cite: 2]
+📫 **Contact :** [LinkedIn](https://www.linkedin.com/in/sidahmed-ferroudj) · sidahmed.ferroudj.etu@univ-lille.fr · +33 7 58 38 92 74 · Lille, France.
