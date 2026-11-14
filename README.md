@@ -1,4 +1,4 @@
-### Bonjour, je suis Sid Ahmed Ferroudj 👋
+[### Bonjour, je suis Sid Ahmed Ferroudj 👋
 
 **Étudiant en Master 2 Informatique (Génie Logiciel) @ Université de Lille**[cite: 2]  
 🎯 **À la recherche d'un stage de fin d'études de 6 mois en Développement / Ingénierie Logicielle à partir de mars 2027**[cite: 2]
@@ -26,3 +26,4 @@ Passionné par la conception logicielle dans son ensemble, j'aime résoudre des 
 * **LinkedIn :** [linkedin.com/in/sidahmed-ferroudj](https://www.linkedin.com/in/sidahmed-ferroudj)[cite: 2]
 * **Email :** sidahmed.ferroudj.etu@univ-lille.fr[cite: 2]
 * **Localisation :** Lille, France (mobile)[cite: 2]
+](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-informatique-MG001981/genie-logiciel-MX002037.html)
