@@ -1,29 +1,30 @@
-[### Bonjour, je suis Sid Ahmed Ferroudj 👋
+## Sid Ahmed Ferroudj
 
-**Étudiant en Master 2 Informatique (Génie Logiciel) @ Université de Lille**[cite: 2]  
-🎯 **À la recherche d'un stage de fin d'études de 6 mois en Développement / Ingénierie Logicielle à partir de mars 2027**[cite: 2]
-
----
-
-### 👨‍💻 À propos de moi
-
-Actuellement en dernière année de Master Informatique (parcours Génie Logiciel) à l'Université de Lille, j'ai également eu l'opportunité de mettre mes compétences en pratique lors d'un stage en développement logiciel au sein du laboratoire COSYS (Université Gustave Eiffel)[cite: 2].
-
-Passionné par la conception logicielle dans son ensemble, j'aime résoudre des problématiques techniques variées en accordant une attention particulière à la qualité du code, à l'architecture et à la fiabilité des solutions développées. Curieux, rigoureux et adaptable, je souhaite rejoindre une équipe dynamique et bienveillante où je pourrai m'investir pleinement sur des projets concrets, monter en compétences au contact d'ingénieurs expérimentés et contribuer activement à la réussite collective.
+**Étudiant en Master 2 Informatique — Parcours Génie Logiciel | Université de Lille**  
+**À la recherche d'un stage de fin d'études de 6 mois en Développement / Ingénierie Logicielle à partir de mars 2027**
 
 ---
 
-### 🧭 Ce que j'apporte à une équipe
+### À propos
 
-* **Bases solides en génie logiciel :** Sensibilité aux bonnes pratiques de développement, à l'architecture logicielle et aux tests[cite: 2].
-* **Polyvalence et capacité d'adaptation :** Capacité à monter rapidement en compétence sur de nouveaux langages, outils ou environnements techniques selon les besoins du projet.
-* **Esprit d'équipe :** Expérience du travail en environnement pluridisciplinaire, avec l'habitude de collaborer et de traduire des besoins fonctionnels en solutions techniques[cite: 2].
+Actuellement en dernière année de [Master Informatique — Parcours Génie Logiciel](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-informatique-MG001981/genie-logiciel-MX002037.html) à l'Université de Lille (après une première année de Master E-Services au sein du même établissement), j'ai complété mon cursus académique par un stage en développement logiciel au sein du laboratoire COSYS (Université Gustave Eiffel)[cite: 2].
+
+Intéressé par l'ingénierie logicielle dans sa globalité, j'accorde une attention particulière à la conception d'architectures propres, à la maintenabilité du code et à la fiabilité des applications. Rigoureux et curieux, je souhaite intégrer une équipe technique exigeante où je pourrai m'investir sur des projets concrets, consolider mes acquis aux côtés d'ingénieurs expérimentés et contribuer durablement aux objectifs de l'équipe.
 
 ---
 
-### 📫 Me contacter
+### Ce que j'apporte à une équipe
+
+* **Culture informatique et fondamentaux solides :** Cinq années de formation universitaire m'ont permis d'acquérir une maîtrise équilibrée entre concepts théoriques (algorithmique, structures de données, paradigmes de programmation) et mise en pratique industrielle.
+* **Exigence en génie logiciel :** Sensibilité marquée aux bonnes pratiques de développement, à l'architecture logicielle (principes SOLID, patrons de conception) et à la validation par les tests[cite: 2].
+* **Polyvalence et capacité d'adaptation :** Capacité à m'approprier rapidement de nouveaux langages, frameworks ou environnements techniques selon les contraintes et les besoins des projets.
+* **Collaboration et ouverture :** Habitué à évoluer dans des environnements pluridisciplinaires et internationaux, avec une maîtrise courante du français et de l'anglais (niveau B2 certifié) facilitant l'intégration au sein d'équipes diversifiées[cite: 2].
+
+---
+
+### Contact
 
 * **LinkedIn :** [linkedin.com/in/sidahmed-ferroudj](https://www.linkedin.com/in/sidahmed-ferroudj)[cite: 2]
 * **Email :** sidahmed.ferroudj.etu@univ-lille.fr[cite: 2]
+* **Téléphone :** +33 7 58 38 92 74[cite: 2]
 * **Localisation :** Lille, France (mobile)[cite: 2]
-](https://formation.univ-lille.fr/fr/offre-de-formation/master-lmd-XB/master-informatique-MG001981/genie-logiciel-MX002037.html)
